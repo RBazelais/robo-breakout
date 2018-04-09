@@ -16,6 +16,7 @@ ModelImporter:
     100016: Screen.001
     100018: Screen.002
     100020: Screen.003
+    100022: Room.001
     400000: Cube
     400002: Cube.001
     400004: Cube.002
@@ -27,6 +28,7 @@ ModelImporter:
     400016: Screen.001
     400018: Screen.002
     400020: Screen.003
+    400022: Room.001
     2100000: No Name
     2100002: Material
     2300000: Cube
@@ -39,6 +41,8 @@ ModelImporter:
     2300014: Screen.001
     2300016: Screen.002
     2300018: Screen.003
+    2300020: //RootNode
+    2300022: Room.001
     3300000: Cube
     3300002: Cube.001
     3300004: Cube.002
@@ -49,6 +53,8 @@ ModelImporter:
     3300014: Screen.001
     3300016: Screen.002
     3300018: Screen.003
+    3300020: //RootNode
+    3300022: Room.001
     4300000: Screen.003
     4300002: Cube.004
     4300004: Cube.003
@@ -59,6 +65,7 @@ ModelImporter:
     4300014: Cube.001
     4300016: Cube
     4300018: Room
+    4300020: Room.001
   externalObjects: {}
   materials:
     importMaterials: 1
